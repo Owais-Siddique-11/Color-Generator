@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+div{
+    height: 30vh;
+    width: 50vw;
+    border: 2px solid #000;
+    margin: auto;
+    
+}
